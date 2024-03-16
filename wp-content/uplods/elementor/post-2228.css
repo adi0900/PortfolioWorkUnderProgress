@@ -1,0 +1,140 @@
+.elementor-2228 .elementor-element.elementor-element-d911bd6 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 2.5% 8% 1% 8%;
+    z-index: 2;
+}
+
+.elementor-2228 .elementor-element.elementor-element-87f7045 > .elementor-element-populated {
+    margin: 0px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+}
+
+.elementor-2228 .elementor-element.elementor-element-87f7045 > .elementor-element-populated > .elementor-widget-wrap {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-2228 .elementor-element.elementor-element-fb9c874 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-bc-flex-widget .elementor-2228 .elementor-element.elementor-element-86f74df.elementor-column .elementor-column-wrap {
+    align-items: center;
+}
+
+.elementor-2228 .elementor-element.elementor-element-86f74df.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-2228 .elementor-element.elementor-element-86f74df > .elementor-element-populated {
+    margin: 0px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+}
+
+.elementor-2228 .elementor-element.elementor-element-86f74df > .elementor-element-populated > .elementor-widget-wrap {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-2228 .elementor-element.elementor-element-2608f6b .elementor-heading-title {
+    color: var( --e-global-color-primary );
+    font-family: var( --e-global-typography-primary-font-family ), Sans-serif;
+    font-weight: var( --e-global-typography-primary-font-weight );
+}
+
+.elementor-2228 .elementor-element.elementor-element-2608f6b > .elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0% 0% 0% 0%;
+}
+
+.elementor-2228 .elementor-element.elementor-element-2608f6b {
+    width: auto;
+    max-width: auto;
+}
+
+.elementor-bc-flex-widget .elementor-2228 .elementor-element.elementor-element-d98c0af.elementor-column .elementor-column-wrap {
+    align-items: center;
+}
+
+.elementor-2228 .elementor-element.elementor-element-d98c0af.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-2228 .elementor-element.elementor-element-d98c0af.elementor-column > .elementor-column-wrap > .elementor-widget-wrap {
+    justify-content: flex-end;
+}
+
+.elementor-2228 .elementor-element.elementor-element-d98c0af > .elementor-element-populated {
+    margin: 0px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+}
+
+.elementor-2228 .elementor-element.elementor-element-d98c0af > .elementor-element-populated > .elementor-widget-wrap {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-2228 .elementor-element.elementor-element-25d90db {
+    text-align: right;
+    width: auto;
+    max-width: auto;
+}
+
+.elementor-2228 .elementor-element.elementor-element-25d90db .elementor-heading-title {
+    color: var( --e-global-color-primary );
+    font-family: var( --e-global-typography-primary-font-family ), Sans-serif;
+    font-weight: var( --e-global-typography-primary-font-weight );
+}
+
+.elementor-2228 .elementor-element.elementor-element-25d90db > .elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+@media(max-width: 767px) {
+    .elementor-2228 .elementor-element.elementor-element-d911bd6 {
+        padding:07% 8% 5% 8%;
+        z-index: 9999;
+    }
+
+    .elementor-2228 .elementor-element.elementor-element-86f74df {
+        width: 50%;
+    }
+
+    .elementor-2228 .elementor-element.elementor-element-d98c0af {
+        width: 50%;
+    }
+}
+
+/* Start custom CSS for section, class: .elementor-element-d911bd6 */
+.header {
+    mix-blend-mode: difference;
+}
+
+.header a {
+    transition: opacity 0.8s ease;
+}
+
+.header a:hover {
+    opacity: 0.5;
+}
+
+header {
+    z-index: 2!important;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.header-links {
+    font-size: clamp(0.6rem, 1vw, 1.2rem)!important;
+    font-family: var( --e-global-typography-primary-font-family ), Sans-serif!important;
+}
+
+/* End custom CSS */
