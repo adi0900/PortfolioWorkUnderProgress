@@ -8805,15 +8805,7 @@ function es(s, t, e, i) {
             h.renderTransform(1, h);
     return t ? f.inverse() : f
 }
-/*!
- * Flip 3.12.3
- * https://gsap.com
- *
- * @license Copyright 2008-2023, GreenSock. All rights reserved.
- * Subject to the terms at https://gsap.com/standard-license or for
- * Club GSAP members, the agreement issued with that membership.
- * @author: Jack Doyle, jack@greensock.com
-*/
+//
 var qT = 1, Qo, Ze, te, ol, Bs, ms, Mf, b0 = function(t, e) {
     return t.actions.forEach(function(i) {
         return i.vars[e] && i.vars[e](i)
@@ -13308,8 +13300,8 @@ function oA(s) {
     }
 }
 var aA = oA(!1);
-const z0 = "/video/canvas_reel_preview_optimized.mp4"
-  , Ix = "/video/canvas_reel_full_optimized.mp4";
+const z0 = "/canvas/dune.mp4"
+  , Ix = "/canvas/dune.mp4";
 class lA {
     constructor(t) {
         this.canvas = t,
